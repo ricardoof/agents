@@ -15,6 +15,13 @@
       "when": 1752150840262,
       "tag": "0001_harsh_human_cannonball",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752251966298,
+      "tag": "0002_organic_speed_demon",
+      "breakpoints": true
     }
   ]
 }
