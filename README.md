@@ -2,15 +2,13 @@
 
 Projeto desenvolvido durante a Next Level Week (NLW) Agents, um evento online da [Rocketseat](https://www.rocketseat.com.br/).
 
-## Sobre o projeto
-
 A aplicação funciona como uma plataforma de perguntas e respostas (Q&A) para salas de áudio. Os usuários podem criar salas, enviar perguntas e também transcrever trechos de áudio para texto, utilizando a IA do Google Gemini para gerar respostas automáticas com base no conteúdo transcrito.
 
 <img src="web/public/home.png"/>
 <img src="web/public/sala.png"/>
 <img src="web/public/audio.png"/>
 
-## Tecnologias
+## 🚀 Tecnologias Utilizadas
 
 Este projeto é um monorepo e utiliza as seguintes tecnologias:
 
@@ -36,7 +34,7 @@ Este projeto é um monorepo e utiliza as seguintes tecnologias:
 -   **React Hook Form & Zod**: Para construção e validação de formulários.
 -   **React Router**: Para gerenciamento de rotas na aplicação.
 
-## Setup do Projeto
+## 🛠️ Setup e Configuração
 
 ### **Pré-requisitos**
 
