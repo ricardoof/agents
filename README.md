@@ -6,6 +6,10 @@ Projeto desenvolvido durante a Next Level Week (NLW) Agents, um evento online da
 
 A aplicação funciona como uma plataforma de perguntas e respostas (Q&A) para salas de áudio. Os usuários podem criar salas, enviar perguntas e também transcrever trechos de áudio para texto, utilizando a IA do Google Gemini para gerar respostas automáticas com base no conteúdo transcrito.
 
+<img src="web/public/home.png"/>
+<img src="web/public/sala.png"/>
+<img src="web/public/audio.png"/>
+
 ## Tecnologias
 
 Este projeto é um monorepo e utiliza as seguintes tecnologias:
