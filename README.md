@@ -40,6 +40,13 @@ Este projeto é um monorepo e utiliza as seguintes tecnologias:
 
 -   [Node.js](https://nodejs.org/en/) (v20 ou superior)
 -   [Docker](https://www.docker.com/)
+  
+### Clonar o Repositório
+
+```bash
+git clone https://github.com/ricardoof/agents.git
+cd agents
+```
 
 ### **Backend**
 
